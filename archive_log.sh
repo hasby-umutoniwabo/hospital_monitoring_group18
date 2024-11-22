@@ -1,5 +1,5 @@
 #!/bin/bash
-#Defining log file
+#Defining the log file to be used for storing heart rate data. 
 
 log_file="heart_rate_log.txt"
 
