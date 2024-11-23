@@ -3,7 +3,7 @@
 
 read -p "Enter the device name (e.g., 'Monitor_A','Monitor_B'):" device_name
 
-#loop for logging and generate random heart rate wuth a timestamp and device name
+#loop for logging and generate random heart rate wuth a timestamp and device name.
  
 while true; do 
 	heart_rate=$((RANDOM % 41 + 60))
